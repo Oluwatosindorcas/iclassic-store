@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className="bg-green-900 text-white p-4 flex justify-between items-center relative">
       <div className="flex items-center">
-        <img src="src/images/Landingpage/ICLASSIC 1.png" alt="iClassic Logo" className="h-12 w-auto" />
+        <img src="/images/Landingpage/ICLASSIC 1.png" alt="iClassic Logo" className="h-12 w-auto" />
       </div>
       <div className="hidden md:flex space-x-8">
         <a href="#home" className="hover:text-yellow-400 text-base">Home</a>

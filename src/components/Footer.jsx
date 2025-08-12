@@ -16,7 +16,7 @@ export default function Footer() {
           {/* Company info */}
           <div>
             <div className="flex items-center mb-6">
-              <img src="src/images/Landingpage/ICLASSIC 1.png" alt="iClassic Logo" className="h-12 w-auto" />
+              <img src="/images/Landingpage/ICLASSIC 1.png" alt="iClassic Logo" className="h-12 w-auto" />
               <span className="text-white font-bold text-xl"></span>
             </div>
             <address className="text-gray-400 not-italic leading-relaxed">
@@ -41,16 +41,16 @@ export default function Footer() {
             <h3 className="text-white font-semibold text-lg mb-6">Social</h3>
             <div className="flex space-x-4">
               <a href="https://www.linkedin.com/in/ola-akinwale-67770b249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" className="text-gray-400 hover:text-white transition-colors">
-                <img src="src\images\Footer\linkedin.png" alt="LinkedIn" className="w-6 h-6" />
+                <img src="\images\Footer\linkedin.png" alt="LinkedIn" className="w-6 h-6" />
               </a>
               <a href="https://www.instagram.com/iclassicstore/" target="_blank" className="text-gray-400 hover:text-white transition-colors">
-                <img src="src\images\Footer\instagram.png" alt="Instagram" className="w-6 h-6" />
+                <img src="\images\Footer\instagram.png" alt="Instagram" className="w-6 h-6" />
               </a>
               <a href="https://x.com/irewale08?s=11" target="_blank" className="text-gray-400 hover:text-white transition-colors">
-                <img src="src\images\Footer\twitter.png" alt="Twitter" className="w-6 h-6" />
+                <img src="\images\Footer\twitter.png" alt="Twitter" className="w-6 h-6" />
               </a>
               <a href="https://x.com/irewale08?s=11" target="_blank" className="text-gray-400 hover:text-white transition-colors">
-                <img src="src\images\Footer\social-media.png" alt="Facebook" className="w-6 h-6" />
+                <img src="\images\Footer\social-media.png" alt="Facebook" className="w-6 h-6" />
               </a>
             </div>
           </div>

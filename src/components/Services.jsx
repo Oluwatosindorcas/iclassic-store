@@ -23,13 +23,13 @@ export default function Services() {
    <a href="https://www.instagram.com/iclassicstore/p/C3OYOjlqBMM/" target="_blank">       
   <div className="mb-4 md:mb-6 flex gap-[2px] overflow-hidden rounded-2xl">
     <img 
-      src="src\images\Services\Samsung-Galaxy-S25-Plus.jpg" 
+      src="\images\Services\Samsung-Galaxy-S25-Plus.jpg" 
       alt="Samsung Galaxy S25 Plus"
       className="w-1/2 h-40 md:h-48 object-cover rounded-l-2xl"
     />
     
     <img 
-      src="src\images\Services\iphone-13-select-2021.jpg" 
+      src="\images\Services\iphone-13-select-2021.jpg" 
       alt="iPhone 13"
       className="w-1/2 h-40 md:h-48 object-cover rounded-r-2xl"
     />
@@ -46,7 +46,7 @@ export default function Services() {
               <div className="mb-4 md:mb-6">
                <a href="https://www.instagram.com/iclassicstore/p/DBLw3wEqR9w/" target="_blank">
                 <img 
-                  src="src\images\Services\latop.jpg"
+                  src="\images\Services\latop.jpg"
                   alt="Laptop with colorful display"
                   className="w-full h-40 md:h-48 object-contain"
                 /></a>
@@ -62,7 +62,7 @@ export default function Services() {
               <div className="mb-4 md:mb-6">
                <a href="https://www.instagram.com/iclassicstore/p/DEhdSAqtTnL/" target="_blank">
                 <img 
-                  src="src\images\Services\ipad 2 1.jpg"
+                  src="\images\Services\ipad 2 1.jpg"
                   alt="Tablets in various colors"
                   className="w-full h-40 md:h-48 object-contain"
                 /></a>
@@ -83,13 +83,13 @@ export default function Services() {
   <div className="mb-4 md:mb-6 flex gap-[2px] overflow-hidden rounded-2xl">
    
     <img 
-      src="src\images\Services\Samsung-Galaxy-S25-Plus.jpg" 
+      src="\images\Services\Samsung-Galaxy-S25-Plus.jpg" 
       alt="Samsung Galaxy S25 Plus"
       className="w-1/2 h-40 md:h-48 object-cover rounded-l-2xl"
     />
   
     <img 
-      src="src\images\Services\iphone-13-select-2021.jpg" 
+      src="\images\Services\iphone-13-select-2021.jpg" 
       alt="iPhone 13"
       className="w-1/2 h-40 md:h-48 object-cover rounded-r-2xl"
     />
@@ -105,7 +105,7 @@ export default function Services() {
               <div className="mb-4 md:mb-6">
                <a href="https://www.instagram.com/stories/highlights/17966581988558864/" target="_blank">
                 <img 
-                  src="src\images\Services\Accessories 1.jpg"
+                  src="\images\Services\Accessories 1.jpg"
                   alt="Various tech accessories"
                   className="w-full h-40 md:h-48 object-contain"
                 /></a>
@@ -121,7 +121,7 @@ export default function Services() {
               <div className="mb-4 md:mb-6">
                <a href="https://wa.me/08173629997" target="_blank">
                 <img 
-                  src="src\images\Services\image 1.jpg"
+                  src="\images\Services\image 1.jpg"
                   alt="Various tech accessories"
                   className="w-full h-40 md:h-48 object-contain"
                 /></a>

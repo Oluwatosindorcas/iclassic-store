@@ -20,12 +20,12 @@ export default function NewArrivals() {
           <a href="https://www.instagram.com/iclassicstore/p/C3OYOjlqBMM/" target="_blank">
             <div className="flex gap-4 mb-8">
               <img
-                src="src\images\Newarrivals\Samsung-Galaxy-S25-Plus.jpg"
+                src="\images\Newarrivals\Samsung-Galaxy-S25-Plus.jpg"
                 alt="Samsung Galaxy S25 Plus"
                 className="rounded-lg w-36 h-48 object-cover"
               />
               <img
-                src="src\images\Newarrivals\iphone-13-select-2021.jpg"
+                src="\images\Newarrivals\iphone-13-select-2021.jpg"
                 alt="iPhone 13"
                 className="rounded-lg w-36 h-48 object-cover"
               />
@@ -43,7 +43,7 @@ export default function NewArrivals() {
           <a href="https://www.instagram.com/iclassicstore/p/DBLw3wEqR9w/" target="_blank">
             <div className="mb-8">
               <img
-                src="src\images\Newarrivals\latop.jpg"
+                src="\images\Newarrivals\latop.jpg"
                 alt="Laptop with colorful display"
                 className="rounded-lg w-72 h-48 object-cover"
               />
@@ -61,7 +61,7 @@ export default function NewArrivals() {
           <a href="https://www.instagram.com/iclassicstore/p/DEhdSAqtTnL/" target="_blank">
             <div className="mb-8">
               <img
-                src="src\images\Newarrivals\ipad 2 1.jpg"
+                src="\images\Newarrivals\ipad 2 1.jpg"
                 alt="iPad and Samsung Tablets"
                 className="rounded-lg w-72 h-48 object-cover"
               />

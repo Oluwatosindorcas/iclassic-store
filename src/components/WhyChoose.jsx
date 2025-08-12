@@ -21,7 +21,7 @@ export default function WhyChooseUs() {
           {/* Image Section */}
           <div className="flex-shrink-0 w-full md:w-1/2 flex justify-center md:justify-start">
             <img
-              src="src\images\WhyChoose\Image_fx (2) 2.jpg"
+              src="\images\WhyChoose\Image_fx (2) 2.jpg"
               alt="Green price tag with a checkmark, symbolizing value and trust"
               className="w-64 h-64 md:w-96 md:h-96 object-contain"
             />

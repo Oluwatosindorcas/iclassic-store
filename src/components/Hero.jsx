@@ -25,10 +25,10 @@ function Hero() {
         </a>
         <p className="text-sm">Fast responses. Real-time deals. Hassle-free experience.</p>
         <div className="mt-8 flex justify-center space-x-0 -mx-2">
-          <img src="src/images/Landingpage/Samsung-Galaxy-S25-Plus.png" alt="Device 1" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
-          <img src="src/images/Landingpage/Iphone 17.png" alt="Device 2" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
-          <img src="src/images/Landingpage/google pixel.png" alt="Device 3" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
-          <img src="src/images/Landingpage/latop.png" alt="Device 4" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
+          <img src="/images/Landingpage/Samsung-Galaxy-S25-Plus.png" alt="Device 1" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
+          <img src="/images/Landingpage/Iphone 17.png" alt="Device 2" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
+          <img src="/images/Landingpage/google pixel.png" alt="Device 3" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
+          <img src="/images/Landingpage/latop.png" alt="Device 4" className="h-32 sm:h-40 md:h-48 -ml-px -mr-px" />
         </div>
       </div>
     </section>

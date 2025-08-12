@@ -7,9 +7,9 @@ export default function CallToAction() {
       {/* Background devices - faded in top right */}
       <div className="absolute top-4 right-4 lg:top-8 lg:right-8 opacity-30">
         <div className="flex space-x-2">
-          <img src="src\images\Landingpage\Samsung-Galaxy-S25-Plus.png" alt="" className="w-16 h-24 lg:w-20 lg:h-30 rounded-lg" />
-          <img src="src\images\Landingpage\Iphone 17.png" alt="" className="w-16 h-24 lg:w-20 lg:h-30 rounded-lg" />
-          <img src="src\images\Landingpage\google pixel.png" alt="" className="w-16 h-24 lg:w-20 lg:h-30 rounded-lg" />
+          <img src="\images\Landingpage\Samsung-Galaxy-S25-Plus.png" alt="" className="w-16 h-24 lg:w-20 lg:h-30 rounded-lg" />
+          <img src="\images\Landingpage\Iphone 17.png" alt="" className="w-16 h-24 lg:w-20 lg:h-30 rounded-lg" />
+          <img src="\images\Landingpage\google pixel.png" alt="" className="w-16 h-24 lg:w-20 lg:h-30 rounded-lg" />
           
         </div>
       </div>
@@ -40,20 +40,20 @@ export default function CallToAction() {
             {/* Mobile view - stacked */}
             <div className="lg:hidden flex flex-col items-center space-y-6 mt-16">
               <div className="flex space-x-3">
-                <img src="src\images\Landingpage\Samsung-Galaxy-S25-Plus.png" alt="Phone" className="w-20 h-32 rounded-xl shadow-xl" />
-                <img src="src\images\Landingpage\Iphone 17.png" alt="Phone" className="w-20 h-32 rounded-xl shadow-xl" />
-                <img src="src\images\Landingpage\google pixel.png" alt="Phone" className="w-20 h-32 rounded-xl shadow-xl" />
+                <img src="\images\Landingpage\Samsung-Galaxy-S25-Plus.png" alt="Phone" className="w-20 h-32 rounded-xl shadow-xl" />
+                <img src="\images\Landingpage\Iphone 17.png" alt="Phone" className="w-20 h-32 rounded-xl shadow-xl" />
+                <img src="\images\Landingpage\google pixel.png" alt="Phone" className="w-20 h-32 rounded-xl shadow-xl" />
               </div>
-              <img src="src\images\Landingpage\latop.png" alt="Laptop" className="w-32 h-20 rounded-lg shadow-xl" />
+              <img src="\images\Landingpage\latop.png" alt="Laptop" className="w-32 h-20 rounded-lg shadow-xl" />
             </div>
 
             {/* Desktop view - positioned lower right */}
             <div className="hidden lg:block relative h-full">
               <div className="absolute top-1/2 right-0 transform translate-y-1/2 flex space-x-4">
-                <img src="src\images\Landingpage\Samsung-Galaxy-S25-Plus.png" alt="Phone" className="w-24 h-40 rounded-xl shadow-2xl transform rotate-3" />
-                <img src="src\images\Landingpage\Iphone 17.png" alt="Phone" className="w-24 h-40 rounded-xl shadow-2xl transform -rotate-2" />
-                <img src="src\images\Landingpage\google pixel.png" alt="Phone" className="w-24 h-40 rounded-xl shadow-2xl transform rotate-1" />
-                <img src="src\images\Landingpage\latop.png" alt="Laptop" className="w-40 h-24 rounded-lg shadow-2xl transform -rotate-12" />
+                <img src="\images\Landingpage\Samsung-Galaxy-S25-Plus.png" alt="Phone" className="w-24 h-40 rounded-xl shadow-2xl transform rotate-3" />
+                <img src="\images\Landingpage\Iphone 17.png" alt="Phone" className="w-24 h-40 rounded-xl shadow-2xl transform -rotate-2" />
+                <img src="\images\Landingpage\google pixel.png" alt="Phone" className="w-24 h-40 rounded-xl shadow-2xl transform rotate-1" />
+                <img src="images\Landingpage\latop.png" alt="Laptop" className="w-40 h-24 rounded-lg shadow-2xl transform -rotate-12" />
               </div>
             </div>
           </div>
